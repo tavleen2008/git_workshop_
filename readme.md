@@ -1,2 +1,2 @@
 ### GDG Workshop 
-dgfhdgfudufdkufsfhdjsjk
+Learnt basic commands used in git
